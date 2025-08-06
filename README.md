@@ -1,8 +1,6 @@
 ## ✅ Prefix Key
 
-**Prefix = Ctrl + Space**
-(You press this first before any regular tmux command — unless noted as "no prefix needed".)
-
+**Prefix = Ctrl + a**
 ---
 
 ## 🧱 Pane Management
